@@ -73,7 +73,7 @@ const App: () => Node = () => {
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> 
           </Section>
-          <Section title="See Your Changes">
+          <Section title="See ">
             <ReloadInstructions />
           </Section>
           <Section title="Debug">
