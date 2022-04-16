@@ -68,7 +68,7 @@ const App: () => Node = () => {
         <Header />
         <View
           style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.black,
+            backgroundColor: isDarkMode ? Colors.black : Colors.green,
           }}>
           <Section title="Step One">
              <Text style={styles.highlight}>Inicio</Text> 
