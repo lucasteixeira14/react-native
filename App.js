@@ -79,7 +79,7 @@ const App: () => Node = () => {
           <Section title="Debug">
             <DebugInstructions />
           </Section>
-          <Section title="Learn More">
+          <Section title="">
             
           </Section>
           <LearnMoreLinks />
