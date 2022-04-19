@@ -76,7 +76,7 @@ const App: () => Node = () => {
           <Section title="">
             <ReloadInstructions />
           </Section>
-          <Section title="Debug">
+          <Section title="">
             <DebugInstructions />
           </Section>
           <Section title="">
