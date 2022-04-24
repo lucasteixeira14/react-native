@@ -75,9 +75,6 @@ const App: () => Node = () => {
           </Section>
 
           <Section title="">
-            <DebugInstructions />
-          </Section>
-          <Section title="">
             
           </Section>
           <LearnMoreLinks />
