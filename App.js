@@ -74,9 +74,7 @@ const App: () => Node = () => {
      
           </Section>
 
-          <Section title="">
-            
-          </Section>
+     
           <LearnMoreLinks />
         </View>
       </ScrollView>
