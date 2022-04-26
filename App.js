@@ -70,9 +70,7 @@ const App: () => Node = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.blue,
           }}>
-          <Section title="">
-     
-          </Section>
+
 
      
           <LearnMoreLinks />
