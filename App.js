@@ -67,9 +67,7 @@ const App: () => Node = () => {
         style={backgroundStyle}>
         <Header />
         <View
-          style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.blue,
-          }}>
+          >
 
 
      
