@@ -68,10 +68,6 @@ const App: () => Node = () => {
         <Header />
         <View
           >
-
-
-     
-          <LearnMoreLinks />
         </View>
       </ScrollView>
     </SafeAreaView>
