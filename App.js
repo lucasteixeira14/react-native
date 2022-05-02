@@ -74,11 +74,6 @@ const App: () => Node = () => {
   );
 };
 
-const styles = StyleSheet.create({
 
-  highlight: {
-    fontWeight: '700',
-  },
-});
 
 export default App;
