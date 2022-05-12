@@ -33,24 +33,7 @@ const Section = ({children, title}): Node => {
   );
 };
 
-const App: () => Node = () => {
-  
 
-
-  return (
-    <SafeAreaView style={backgroundStyle}>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <ScrollView
-        contentInsetAdjustmentBehavior=""
-        style={backgroundStyle}>
-        <Header />
-        <View
-          >
-        </View>
-      </ScrollView>
-    </SafeAreaView>
-  );
-};
 
 
 
